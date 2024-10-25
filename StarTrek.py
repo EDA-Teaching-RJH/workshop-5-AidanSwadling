@@ -52,7 +52,10 @@ def main():
 
 def display_status(): 
 # TODO: Implement function to display ship status, resources, and crew 
-
+	ship["systems"]
+	ship["resources"]
+	ship["crew"]
+	
 def get_user_action(): 
 # TODO: Implement function to get and return user's chosen action 
 
